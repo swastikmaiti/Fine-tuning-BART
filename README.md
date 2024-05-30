@@ -2,7 +2,6 @@
 
 In this work we will be fine tuning `BART-LARGE`
 
-<img src="https://github.com/swastikmaiti/SwastikM-bart-large-nl2sql/blob/c8053edb3d67c8da8074d92c88e2b323e7e15c86/bart-nl2sql.png">
 
 # Description
 
