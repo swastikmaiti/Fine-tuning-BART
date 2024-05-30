@@ -36,4 +36,5 @@ You can also checkout the Inference Endpoint.
 
 Model Card: [SwastikM/bart-large-nl2sql](https://huggingface.co/SwastikM/bart-large-nl2sql)
 
+#
 ### If you find the repo helpful, please drop a ⭐
