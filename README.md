@@ -27,6 +27,7 @@ In this work we show how to fine-tune [facebook/bart-large-cnn](https://huggingf
 # Architecture
 - **Task:** text2text generation
 - **Model:** BART Large
+- **Dataset:** synthetic_text_to_sql
 - **Fine-Tuning Framework:** Hugging Face
 
 # Hugging Face
