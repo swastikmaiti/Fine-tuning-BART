@@ -1,6 +1,8 @@
 # Finetuing BART for Text2Text Generation
 
-In this work we will be fine tuning `BART-LARGE`
+# Introduction
+
+In this work we finetune `BART-LARGE` on text2sql dataset to generate SQL for user query. Fine Tuning is a cost-efficient way of preparing a model for specialized tasks. Fine-tuning reduces required training time and the model learns even with a small dataset.
 
 <img src="https://github.com/swastikmaiti/SwastikM-bart-large-nl2sql/blob/023cf97b5ab5e437d7438abea8d99732531895a7/bart-nl2sql.png" height='400' width='400'>
 
